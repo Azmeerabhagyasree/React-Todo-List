@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Azmeerabhagyasree.github.io/Todo-List/static/css/main.073c9b0a.css",
+    "main.js": "/Azmeerabhagyasree.github.io/Todo-List/static/js/main.afa778ec.js",
+    "static/js/787.f237a53c.chunk.js": "/Azmeerabhagyasree.github.io/Todo-List/static/js/787.f237a53c.chunk.js",
+    "index.html": "/Azmeerabhagyasree.github.io/Todo-List/index.html",
+    "main.073c9b0a.css.map": "/Azmeerabhagyasree.github.io/Todo-List/static/css/main.073c9b0a.css.map",
+    "main.afa778ec.js.map": "/Azmeerabhagyasree.github.io/Todo-List/static/js/main.afa778ec.js.map",
+    "787.f237a53c.chunk.js.map": "/Azmeerabhagyasree.github.io/Todo-List/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.afa778ec.js"
+  ]
+}
